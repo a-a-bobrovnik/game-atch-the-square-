@@ -1,0 +1,7 @@
+.canvasWrap{
+    position: relative;
+}
+.btnReset{
+    position: absolute;
+    top: 50px;
+}
